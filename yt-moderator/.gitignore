@@ -1,0 +1,18 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# ML Models (if they are huge)
+*.pth
+*.h5
+
+# Node dependencies
+node_modules/
+
+# OS files
+.DS_Store
